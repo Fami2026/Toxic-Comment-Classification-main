@@ -14,4 +14,4 @@ Models experimented with
 
 Deployment of the model can be found in the repo below.
 
-Link : https://github.com/JoeKifle/AI-powered-chat-moderator-bot-
+Link : https://github.com/Fami2026/ISPR-Autoregressive-analysis-main
